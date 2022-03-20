@@ -33,7 +33,7 @@ https://ahmedrazachandio.github.io/projects/layout/layout3/index.html
 
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my Website (HTML, CSS, JS).
+* <b>GitHub Pages</b> - To host my Website (HTML, CSS,).
 
 ## Contributing 💡
 #### Step 1
