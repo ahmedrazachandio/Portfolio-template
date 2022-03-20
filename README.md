@@ -7,16 +7,20 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/Screen_1.png" width="900">
+<img src="website_images/Screenshot_1.png" width="900">
+
+#### About 
+<img src="website_images/Screenshot_2.png" width="900">
+
+#### Contact
+<img src="website_images/Screenshot_3.png" width="900">
 =======
 
 
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
-⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
-⚡️ Java Script
 ⚡️ Easy to modify
 
 
@@ -25,7 +29,7 @@
 
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my App (HTML, CSS, JS).
+* <b>GitHub Pages</b> - To host my Website (HTML, CSS, JS).
 
 ## Contributing 💡
 #### Step 1
